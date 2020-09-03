@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# SELECTION FOR LIVER TRANSPLANTATION OF PATIENTS WITH NON-ALCOHOLIC FATTY LIVER DISEASE AND ALCOHOL-RELATED LIVER DISEASE: A WORLDWIDE SURVEY OF PROVIDER ATTITUDES AND PRACTICES.
+**Informed Consent for a Research Study**
 
-You can use the [editor on GitHub](https://github.com/jparab/survey/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## INTRODUCTION AND PURPOSE OF THE STUDY
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You are invited to participate in a research study of assessing personal and transplant-program specific limitations for liver transplant candidates. The results of this survey will be used to give us a more comprehensive understanding of knowledge and perception of selection for liver transplantation for non-alcoholic fatty liver disease (NAFLD) and alcohol-related liver disease (ALD) among the medical community. No protected health information will be collected during this study. The survey will take approximately 5-10 minutes to complete.
 
-### Markdown
+## What will happen if I take part in this research study?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you agree to participate, you will be asked to complete a survey online. The questionnaire should take approximately 5-10 minutes to complete. You are not required to answer every question and can skip questions at any time if you do not feel comfortable answering. This is a one-time questionnaire and you will not be re-contacted.
 
-```markdown
-Syntax highlighted code block
+## What risks or benefits can I expect from being in the study?
 
-# Header 1
-## Header 2
-### Header 3
+We do not foresee any possible risks as no sensitive information is asked or collected. Your anonymous responses will be held completely confidential and no personal identifying information will be asked or gathered from you. The potential benefit to you is assisting us gain a comprehensive understanding of selection for liver transplantation for non-alcoholic fatty liver disease (NAFLD) and alcohol-related liver disease (ALD) among the medical community.
 
-- Bulleted
-- List
+## Will my information be kept private?
 
-1. Numbered
-2. List
+Efforts have been made to protect your identity. No identifying code has been placed on the survey form and no one outside of the research team will have access to the individual completed surveys. Only group data will be reported and responses will not be person-identifiable. This information will be kept in a password protected file and saved to a research drive that is only accessible to research study staff. Once data analysis is complete and the research results are reported, the individual surveys will be kept in a password protected database only accessible to the research team.
 
-**Bold** and _Italic_ and `Code` text
+**By clicking Link button below you are indicating that you have read the description of the study and that you agree to participate in the survey. If you do not wish to participate, please disregard and exit this window.**
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jparab/survey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Link](https://redcap.facultadmedicina.uc.cl/redcap/surveys/?s=FJDLKDEY7F)
